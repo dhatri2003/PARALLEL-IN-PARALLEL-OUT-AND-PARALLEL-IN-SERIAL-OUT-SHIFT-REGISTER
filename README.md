@@ -1,4 +1,4 @@
-# PIPO and PISO Shift Register Project
+# PIPO and PISO Shift Register 
 
 ## Overview
 
