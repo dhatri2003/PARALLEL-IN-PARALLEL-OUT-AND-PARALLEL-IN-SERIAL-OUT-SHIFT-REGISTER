@@ -1,5 +1,3 @@
-# HDL CODE:
-## FOR PIPO:
 module pipo(
 input logic [3:0] din,
 input logic clk,
