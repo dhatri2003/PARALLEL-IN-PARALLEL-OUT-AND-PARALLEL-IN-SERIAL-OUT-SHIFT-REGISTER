@@ -4,8 +4,6 @@ input logic clr,
 input logic sel,
 input logic [3:0]d,
 output logic sout );
-
-5 | P a g e
 logic [3:0]q;
 always @(posedge clk,posedge clr)
 if (clr==1) q<=4'b0000;
